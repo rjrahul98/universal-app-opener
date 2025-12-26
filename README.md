@@ -1,5 +1,7 @@
 # Universal App Opener
 
+Rahul
+
 A JavaScript library that converts standard HTTP URLs (YouTube, LinkedIn) into Native Mobile Deep Links (Custom Schemes & Android Intents).
 
 ## ⚠️ Development Status
